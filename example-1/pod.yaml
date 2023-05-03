@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: argocd-helloworld
   labels:
-    name: argocd-helloworld4
+    name: argocd-helloworld5
 spec:
   containers:
   - name: argocd-helloworld
